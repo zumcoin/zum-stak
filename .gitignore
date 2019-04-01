@@ -4,6 +4,7 @@ build/
 xmr-stak-cpu.layout
 xmr-stak-cpu.depend
 config-debug.txt
+.vscode
 
 # netbeans project files
 /nbproject/
